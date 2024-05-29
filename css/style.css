@@ -1,4 +1,19 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
+/* 
+* This file contains the CSS for index.php
 */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ecc0f2;
+  margin: 0;
+  padding: 0;
+  color: #8c2ba6;
+}
+
+h1 {
+  color: #4b0066;
+}
+
+.contentImg {
+    width: 100px;
+    height: auto;
+}
